@@ -18,7 +18,7 @@ export default function BookBar() {
       <AppBar position="static" color="default">
         <Toolbar>
           <Typography variant="h5" color="primary">
-            HARALD OG LYD
+            HenningApp
           </Typography>
         </Toolbar>
       </AppBar>
